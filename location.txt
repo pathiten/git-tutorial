@@ -4,3 +4,6 @@ LOCATION_ID,STREET_ADDRESS,POSTAL_CODE,CITY,STATE_PROVINCE,COUNTRY_ID
 1200,2017 Shinjuku-ku,1689,Tokyo,Tokyo Prefecture,JP
 1300,9450 Kamiya-cho,6823,Hiroshima,,JP
 1400,2014 Jabberwocky Rd,26192,Southlake,chicago,US
+1500,2017 Shinjuku-ku,1689,Tokyo,Tokyo Prefecture,JP
+1600,9450 Kamiya-cho,6823,Hiroshima,,JP
+1700,2014 Jabberwocky Rd,26192,Southlake,chicago,US

@@ -5,3 +5,5 @@ REGION_ID,REGION_NAME
 4,india
 5,maleshia
 6,africa
+7, australia
+

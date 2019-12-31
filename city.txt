@@ -1,0 +1,7 @@
+city_ID,city_NAME
+1,glendale heights
+2,danville
+3,elk grove village
+4,streator
+5,des plaines
+6,irving
