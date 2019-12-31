@@ -4,3 +4,4 @@ REGION_ID,REGION_NAME
 3,Asia
 4,india
 5,maleshia
+6,africa
