@@ -7,3 +7,4 @@ LOCATION_ID,STREET_ADDRESS,POSTAL_CODE,CITY,STATE_PROVINCE,COUNTRY_ID
 1500,2017 Shinjuku-ku,1689,Tokyo,Tokyo Prefecture,JP
 1600,9450 Kamiya-cho,6823,Hiroshima,,JP
 1700,2014 Jabberwocky Rd,26192,Southlake,chicago,US
+1800,2019 hiten rd,60139.glendale heights,il,us
